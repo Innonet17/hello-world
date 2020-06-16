@@ -4,7 +4,7 @@
 <title> favorites / bookmark title goes here </title>
 </head>
 
-<body bgcolor="purple" text="blue">
+<body bgcolor="purple" text="white">
 
 <h1> Things We Never Knew Were Possible </h1>
   <h2>Now we see them....</h2>
